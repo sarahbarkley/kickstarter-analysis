@@ -13,13 +13,13 @@ The purpose of this analysis is to illustrate how different campaigns fared in r
 For the analysis based on launch date, we created a pivot table and graph based on the launch date versus the number of cammpaigns with each outcome. This was grouped by month.
 Optionally we could group by year to see overall trends. Below is the data for the theater category. It is also possible to filter by year. 
 
-(rescources/Theater_Outcomes_vs_Launch.png)
+![](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 For the analysis based on goals, we created a pivot table and graph based on the goal amount versus the percentage of cammpaigns with each outcome. This was accoumplished by using the conditional function `COUNTIFS()` to sort based on goal amount and outcome.
 
-(resources/Outcomes_vs_Goals.png)
+![](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
